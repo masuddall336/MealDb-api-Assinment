@@ -1,0 +1,41 @@
+.button {
+    background-color: rgb(30, 147, 153);
+    padding: 0px 15px;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    margin-left: 0px;
+    color: #fff;
+}
+
+#name_input {
+    background-color: #91e3c1;
+    border: none;
+    border-radius: 10px 0px 0px 10px;
+    height: 50px;
+    width: 400px;
+    padding-left: 20px;
+}
+
+.mealImageAndName {
+    border-radius: 10px 10px 10px 10px;
+    padding: 0px 0px 1px 0px;
+    cursor: pointer;
+    background-color: rgb(225, 180, 180);
+    color: black;
+}
+.img{
+    border-radius: 10px 10px 0px 0px;
+}
+.image{
+    width: 100px;
+    margin-top: 5px;
+}
+#strIngredient{
+    background-color: aliceblue;
+    width: 300px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
